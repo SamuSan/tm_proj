@@ -4,7 +4,7 @@ window.SearchRegions = new function () {
   this.getSearchRegions = function () {
     $(function() {
       $.get({
-        urlkey: "value", 
+        url: ''
       });
     });
   }
